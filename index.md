@@ -1,4 +1,4 @@
-## ISS Finder privacy statement
+## ISS Finder privacy policy statement
 
 ISS Finder can obtain your current GPS position, with your consent, in order to determine the prediction passes of ISS for your location (using heavens-above.com). Also, the App doesn't keep track of your location over time.
 
