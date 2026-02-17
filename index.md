@@ -33,6 +33,6 @@ App settings (theme, time format, window position) and cached data (TLE, crew in
 
 ISSFinder does not sell, share, or transfer your data to any third party for advertising or tracking purposes.
 
-### Support or Contact
+## Support or Contact
 
 Any question? Feel free to send an email to [issfinder@outlook.fr](mailto:issfinder@outlook.fr).
